@@ -28,7 +28,9 @@ Ora a soli 5,85 € anziché 6,50 €. Risparmia IL 10% oggi!
 2.  offerta di natale dall'1 dicembre al 24 dicembre.  
 3. recati in una cartoleria a comperare l'appuntino.
 
-[![Acquista Ora](link-all'immagine-del-pulsante-acquista)](link-alla-pagina-di-acquisto)
+## Acquista Ora
+
+<img src='./Sashama-no_alla_colla.png' alt='image name' width=60%>
 
 Hai domande o hai bisogno di assistenza? Contattaci [qui](link-alla-pagina-di-contatto).
 
